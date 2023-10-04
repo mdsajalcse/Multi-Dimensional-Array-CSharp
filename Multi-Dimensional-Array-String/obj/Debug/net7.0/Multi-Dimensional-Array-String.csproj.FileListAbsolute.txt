@@ -1,0 +1,15 @@
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\bin\Debug\net7.0\Multi-Dimensional-Array-String.exe
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\bin\Debug\net7.0\Multi-Dimensional-Array-String.deps.json
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\bin\Debug\net7.0\Multi-Dimensional-Array-String.runtimeconfig.json
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\bin\Debug\net7.0\Multi-Dimensional-Array-String.dll
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\bin\Debug\net7.0\Multi-Dimensional-Array-String.pdb
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.csproj.AssemblyReference.cache
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.AssemblyInfoInputs.cache
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.AssemblyInfo.cs
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.csproj.CoreCompileInputs.cache
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.dll
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\refint\Multi-Dimensional-Array-String.dll
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.pdb
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\Multi-Dimensional-Array-String.genruntimeconfig.cache
+D:\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-String\obj\Debug\net7.0\ref\Multi-Dimensional-Array-String.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Dimensional-Array-CSharp", "Multi-Dimensional-Array-CSharp\Multi-Dimensional-Array-CSharp.csproj", "{9392B56D-7D0D-4D35-8E12-18E9BF675C28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Dimensional-Array-String", "Multi-Dimensional-Array-String\Multi-Dimensional-Array-String.csproj", "{4E1D4096-1704-417C-B1A0-C127D5C862D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9392B56D-7D0D-4D35-8E12-18E9BF675C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9392B56D-7D0D-4D35-8E12-18E9BF675C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9392B56D-7D0D-4D35-8E12-18E9BF675C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1D4096-1704-417C-B1A0-C127D5C862D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1D4096-1704-417C-B1A0-C127D5C862D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1D4096-1704-417C-B1A0-C127D5C862D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1D4096-1704-417C-B1A0-C127D5C862D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

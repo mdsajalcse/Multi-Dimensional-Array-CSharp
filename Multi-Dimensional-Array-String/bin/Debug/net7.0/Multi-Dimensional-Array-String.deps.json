@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Multi-Dimensional-Array-String/1.0.0": {
+        "runtime": {
+          "Multi-Dimensional-Array-String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multi-Dimensional-Array-String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

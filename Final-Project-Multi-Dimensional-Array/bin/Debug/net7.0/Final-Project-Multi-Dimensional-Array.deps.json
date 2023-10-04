@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Final-Project-Multi-Dimensional-Array/1.0.0": {
+        "runtime": {
+          "Final-Project-Multi-Dimensional-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final-Project-Multi-Dimensional-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
